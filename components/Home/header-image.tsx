@@ -19,8 +19,6 @@ export default function HeaderImage() {
         src="/images/home/bg-header.jpg"
         width={1920}
         height={720}
-        // placeholder="blur"
-        // blurDataURL="/images/home/bg-header-blur.jpg"
         alt="Background - Vikash Kushwaha Profile"
         className={
           "absolute inset-0 h-[100vh] w-full object-cover transition-opacity duration-1000 " +

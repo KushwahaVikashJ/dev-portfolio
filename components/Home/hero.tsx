@@ -60,10 +60,10 @@ export function Hero() {
           </h1>
           {/* SOFTWARE ENGINEER */}
           <h3 className="flex flex-col text-center text-lg">
-            Over the last 4 years, I&apos;ve empowered 4+ companies
+            Experienced software engineer
             <span className="hidden max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8 md:block">
-              Developing user-centric interfaces that captivate and engage
-              audiences and make a real impact.
+              with a focus on building engaging and accessible digital
+              experiences.
             </span>
           </h3>
 
