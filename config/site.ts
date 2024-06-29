@@ -4,7 +4,7 @@ export const siteConfig: SiteConfig = {
   name: "Vikash Kushwaha | Software Engineer",
   title: "Vikash Kushwaha | Software Engineer",
   description:
-    "Creative developer since 2020 and Freelance | Software Engineer with several years of experience. Passionate about traveling and naturally curious. Currently, I am focused on becoming a great leader and continuing to share.",
+    "Creative developer since 2020 | Experienced software engineer with a focus on building engaging and accessible digital experiences.",
   url: "https://www.vikashkushwaha.dev/",
   ogImage: "https://www.vikashkushwaha.dev/og.jpg",
   links: {
