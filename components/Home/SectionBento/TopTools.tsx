@@ -118,8 +118,6 @@ const itemsInspiration = [
   {},
   {},
   {},
-  {},
-  {},
 ]
 
 const goodDesign = [

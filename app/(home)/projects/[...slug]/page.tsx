@@ -94,7 +94,7 @@ export default async function PostPage({ params }: ProjectPageProps) {
 
   return (
     <article className="container relative max-w-3xl py-6 lg:py-10">
-      <GoBackButton />
+      <GoBackButton path="/projects" />
       <div>
         {post.date && (
           <time
