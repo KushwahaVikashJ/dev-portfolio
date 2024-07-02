@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
   description:
     "Creative developer since 2020 | Experienced software engineer with a focus on building engaging and accessible digital experiences.",
   url: "https://www.vikashkushwaha.dev/",
-  ogImage: "https://www.vikashkushwaha.dev/og.jpg",
+  ogImage: "https://www.vikashkushwaha.dev/images/avatars/vikash.jpg",
   links: {
     twitter: "",
     github: "https://github.com/KushwahaVikashJ",
