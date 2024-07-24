@@ -4,7 +4,7 @@ import Link from "next/link"
 import CardTopTools from "./SectionBento/TopTools"
 
 const resumeLink =
-  "https://drive.google.com/file/d/1xmQ15dgTNRGJZyDVfF5pOnlKWCVPVeTI/view?usp=sharing"
+  "https://drive.google.com/file/d/1IUTK7mUL4Mg2NsppalQJzFiI3HKKTg24/view?usp=sharing"
 
 export default function SectionBento() {
   return (
